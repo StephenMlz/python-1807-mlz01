@@ -1,0 +1,10 @@
+github的使用：
+1.new repository
+2. create a name
+3. describtion
+4.ignore--python
+5.licinece --apache
+6. clone
+7 终端  mkdir day10 cd  day10  git clone  xxx
+8  pycharm  打开
+9. file ---> settings--->version control --->password--->用户名字  密码 测试
